@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="libs/ant-1.9.3.jar"/>
+	<classpathentry kind="lib" path="libs/ant-launcher-1.9.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/base-core"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
