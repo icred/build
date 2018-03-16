@@ -1,7 +1,4 @@
 mainClassName = eu.icred.ui.shell.ShellMain
 includedPluginPath.0 = D:/workspace/eclipse/icred/plugin/csv
 includedPluginPath.1 = D:/workspace/eclipse/icred/plugin/shell
-includedPluginPath.2 = D:/workspace/eclipse/icred/plugin-biis-excel
-includedPluginPath.3 = D:/workspace/eclipse/icred/plugin-biis-xml
-includedPluginPath.4 = D:/workspace/eclipse/icred/plugin-zgif
-includedPluginPath.5 = D:/workspace/eclipse/icred/plugin-revc
+includedPluginPath.2 = D:/workspace/eclipse/icred/plugin-zgif

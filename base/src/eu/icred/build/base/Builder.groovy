@@ -1,9 +1,6 @@
 package eu.icred.build.base;
 
-import java.io.File;
-import java.nio.file.CopyMoveHelper.CopyOptions;
 import java.nio.file.Files
-import java.util.Properties;
 
 import eu.icred.build.plugin.PluginBuilder;
 
